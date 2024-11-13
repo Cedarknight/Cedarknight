@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Cedarknight
-- 👀 I’m interested in data science, ML, web apps and face recognition
+- 👋 Hi, I’m @Cedarknight on Github and my name is Hassan Jichi.
+- 👀 I’m interested in data science, ML, AI and web apps.
 - 🌱 I’m currently learning python, streamlit, Github and data science.
 
 <!---
